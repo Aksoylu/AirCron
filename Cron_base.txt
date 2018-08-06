@@ -1,0 +1,21 @@
+[
+   [
+        {
+        "0":"1000"
+        }
+   ],
+   [
+        {
+            "id":"0",
+            "page":"http://localhost/air-cron/test.php",
+            "interval":"200",
+            "request":"POST",
+            "multiple":"false",              
+            "data":"clock(latency:digit)"              
+
+        }
+
+    ]
+]
+
+
